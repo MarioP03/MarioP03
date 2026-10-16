@@ -34,6 +34,6 @@ Areas I'm exploring include **machine learning, statistics, bioinformatics with 
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [Your Name](www.linkedin.com/in/palagyi-mario)
+- 💼 LinkedIn: [Mario Palagyi](www.linkedin.com/in/palagyi-mario)
 
 Thanks for visiting my profile! Feel free to explore my repositories and follow along as I learn, build, and connect AI engineering with security and sustainable software. ⭐
