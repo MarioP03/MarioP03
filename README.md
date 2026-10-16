@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Mario Palagyi 👋
 
 I'm an AI Engineering master's student with a background in Informatics, interested in building practical, reliable, and sustainable software systems.
 
