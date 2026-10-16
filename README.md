@@ -32,14 +32,8 @@ Areas I'm exploring include **machine learning, statistics, bioinformatics with 
 - [ ] Connect security automation experience with AI engineering
 - [ ] Contribute to open-source projects and share more technical work
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/mario-palagyi/)
+- 💼 LinkedIn: [Your Name](www.linkedin.com/in/palagyi-mario)
 
 Thanks for visiting my profile! Feel free to explore my repositories and follow along as I learn, build, and connect AI engineering with security and sustainable software. ⭐
